@@ -1,0 +1,9 @@
+streamlit
+pandas
+sqlalchemy
+pydantic
+python-dotenv
+apscheduler
+requests
+praw
+rapidfuzz
