@@ -1,5 +1,3 @@
-Here’s a solid `README.md` you can paste into your repo (fits what you’ve built: local Streamlit dashboard + EDGAR catalyst ingest for small-cap focus).
-
 ````markdown
 # AI Trade Idea Bot (Lane A: EDGAR Catalyst Dashboard)
 
